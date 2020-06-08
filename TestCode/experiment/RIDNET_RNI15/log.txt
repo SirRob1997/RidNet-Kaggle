@@ -22,3 +22,8 @@ Evaluation:
 [MyImage x4]	PSNR: 0.000 (Best: 0.000 @epoch 1)
 Total time: 2.76s
 
+
+Evaluation:
+[MyImage x4]	PSNR: 0.000 (Best: 0.000 @epoch 1)
+Total time: 2.53s
+
